@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\study\reunova\reunova\source.cpp(70): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Reunova.vcxproj -> C:\study\Reunova\x64\Debug\Reunova.exe
+  Reunova.vcxproj -> C:\study\Reunova\x64\Debug\Reunova.pdb (Partial PDB)
